@@ -1,0 +1,16 @@
+ p {
+            color: #621b8b;
+        }
+        p:hover {
+            color:green;
+        }
+        .bold-red {
+            color: red;
+            font-weight: bold;
+        }
+        .big {
+            font-size: 2rem;
+        }
+        #second.item {
+            padding-left: 2rem;
+        }
